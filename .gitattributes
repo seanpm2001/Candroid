@@ -32,10 +32,27 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# BitBake source file
-*.bb linguist-detectable=true
-*.bb linguist-documentation=false
-*.bb linguist-language=BitBake
+# Python source file
+*.py linguist-detectable=true
+*.py linguist-documentation=false
+*.py linguist-language=Python
+*.py3 linguist-detectable=true
+*.py3 linguist-documentation=false
+*.py3 linguist-language=Python
+*.pyt linguist-detectable=true
+*.pyt linguist-documentation=false
+*.pyt linguist-language=Python
+*.pyw linguist-detectable=true
+*.pyw linguist-documentation=false
+*.pyw linguist-language=Python
+# Java source file
+*.java linguist-detectable=true
+*.java linguist-documentation=false
+*.java linguist-language=Java
+# Google Go source file
+*.go linguist-detectable=true
+*.go linguist-documentation=false
+*.go linguist-language=Go
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -170,10 +187,12 @@
 # *.roff linguist-detectable=false
 # *.roff linguist-documentation=false
 # *.roff linguist-language=Roff
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Tuesday, August 30th at 2:34 pm PST)
-# Line count (including blank lines and compiler line): 180
+# File type: gitattributes file (*.gitattributes)
+# File version: 3 (2022, Thursday, November 24th at 7:09 pm PST)
+# Line count (including blank lines and compiler line): 199
+
 # End of script
