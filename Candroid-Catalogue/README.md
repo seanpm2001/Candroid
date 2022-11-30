@@ -5,6 +5,8 @@
 
 [`See in separate repository`](https://github.com/seanpm2001/Candroid-Catalogue/)
 
+**Catalog version:** `7 (2022, Tuesday, November 29th at 8:19 pm PST)`
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the catalog table]</b></p></summary>
 
 | Icon | Name | Replaces | Description | :octocat: Repository | Secondary icon |
@@ -22,10 +24,10 @@
 | ![/Graphics/Droids/Candroid-Debug/PNG/Candroid-Debug_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Debug/PNG/Candroid-Debug_1000pIcon_V1_HighCompression.png) | Candroid Debug | `Unknown` | `Candroid Debug is a debugging tool for the Candroid framework/environment.` | [`https://github.com/seanpm2001/Candroid-Debug/`](https://github.com/seanpm2001/Candroid-Debug/) |![Graphics/Secondary-Icons/Candroid-Debug/Debug-Icon.png](/Graphics/Secondary-Icons/Candroid-Debug/Debug-Icon.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Easter Egg | Android Easter Egg | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Easter-Egg/`](https://github.com/seanpm2001/Candroid-Easter-Egg/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid-FileCabinet/PNG/Candroid-FIleCabinet_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-FileCabinet/PNG/Candroid-FIleCabinet_1000pIcon_V1_HighCompression.png) | Candroid File Cabinet | Google Files | `Candroid FileCabinet is a file manager app for the Candroid framework/environment. It is a replacement to the Google Files application.` | [`https://github.com/seanpm2001/Candroid-FileCabinet/`](https://github.com/seanpm2001/Candroid-FileCabinet/) |![Graphics/Secondary-Icons/Candroid-FileCabinet/](/Graphics/Secondary-Icons/Candroid-FileCabinet/FileCabinetIcon2.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Keyboard | Android Keyboard & Google GBoard | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Keyboard/`](https://github.com/seanpm2001/Candroid-Keyboard/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
+| ![/Graphics/Droids/Candroid-Keyboard/PNG/Candroid-Keyboard_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Keyboard/PNG/Candroid-Keyboard_1000pIcon_V1_HighCompression.png) | Candroid Keyboard | Android Keyboard & Google GBoard | `Candroid Keyboard is a keyboard application for the Candroid framework/environment, designed to replace both GBoard, and the default Android keyboard.` | [`https://github.com/seanpm2001/Candroid-Keyboard/`](https://github.com/seanpm2001/Candroid-Keyboard/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid-Keyboard/Keyboard_Icon_Blue.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Market | Android Market | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Market/`](https://github.com/seanpm2001/Candroid-Market/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid-Mail/PNG/Candroid-Mail_Icon_1000px_V1_HighCompression.png](/Graphics/Droids/Candroid-Mail/PNG/Candroid-Mail_Icon_1000px_V1_HighCompression.png) | Candroid Mail | GMail (application) | `Candroid Mail is a email platform wrapper, which replaces GMail with ProtonMail, and other email sites. An alternative to the GMail app on Android.` | [`https://github.com/seanpm2001/Candroid-Mail/`](https://github.com/seanpm2001/Candroid-Mail/) | ![Graphics/Secondary-Icons/Candroid-Mail/Mail-Icon1.png](/Graphics/Secondary-Icons/Candroid-Mail/Mail-Icon1.png) |
-| ![/Graphics/Droids/Candroid-Notepad/PNG/Candroid-Notepad_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Notepad/PNG/Candroid-Notepad_1000pIcon_V1_HighCompression.png) | Candroid Nottepad | Nothing | `Candroid Notepad is a notepad app for the Candroid framework/environment. It is not a replacement to an Android stock program, as Android never included a notepad` | [`https://github.com/seanpm2001/Candroid-Mail/`](https://github.com/seanpm2001/Candroid-Notepad/) | ![Graphics/Secondary-Icons/Candroid-Notepad/Notepad-Icon-1.png](/Graphics/Secondary-Icons/Candroid-Notepad/Notepad-Icon-1.png) |
+| ![/Graphics/Droids/Candroid-Notepad/PNG/Candroid-Notepad_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Notepad/PNG/Candroid-Notepad_1000pIcon_V1_HighCompression.png) | Candroid Notepad | Nothing | `Candroid Notepad is a notepad app for the Candroid framework/environment. It is not a replacement to an Android stock program, as Android never included a notepad` | [`https://github.com/seanpm2001/Candroid-Mail/`](https://github.com/seanpm2001/Candroid-Notepad/) | ![Graphics/Secondary-Icons/Candroid-Notepad/Notepad-Icon-1.png](/Graphics/Secondary-Icons/Candroid-Notepad/Notepad-Icon-1.png) |
 | ![/Graphics/Droids/Candroid-Phone/PNG/Candroid-Phone_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Phone/PNG/Candroid-Phone_1000pIcon_V1_HighCompression.png) | Candroid Phone | Google Phone | `Candroid Phone is a cellular phone call app for the Candroid framework/environment. It is a replacement to the Google Phone application.` | [`https://github.com/seanpm2001/Candroid-Phone/`](https://github.com/seanpm2001/Candroid-Phone/) |![Graphics/Secondary-Icons/Candroid-Phone/PhoneIcon1_Blue.png](/Graphics/Secondary-Icons/Candroid-Phone/PhoneIcon1_Blue.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Photo Viewer | Google Image Viewer | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Photo-Viewer/`](https://github.com/seanpm2001/Candroid-Photo-Viewer/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Settings | Android Settings | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Settings/`](https://github.com/seanpm2001/Candroid-Settings/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
@@ -44,9 +46,9 @@
 
 | Count | What for? |
 |---|---|
-| `25` | _total items in catalog, as of 2022, Monday, November 28th._ |
-| `08` | _total existing items in catalog (created repositories and in development) as of 2022, Monday, November 28th_ |
-| `07` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Monday, November 28th_ |
+| `25` | _total items in catalog, as of 2022, Tuesday, November 29th._ |
+| `09` | _total existing items in catalog (created repositories and in development) as of 2022, Tuesday, November 29th_ |
+| `08` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Tuesday, November 29th_ |
 
 ***
 
@@ -56,9 +58,9 @@
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Monday, November 28th at 5:06 pm PST)`
+**File version:** `7 (2022, Tuesday, November 29th at 8:19 pm PST)`
 
-**Line count (including blank lines and compiler line):** `201`
+**Line count (including blank lines and compiler line):** `225`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -194,6 +196,28 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] No other changes in version 6
 
 </details> <!-- End of version 6 !-->
+
+<details><summary><p lang="en"><b>Version 7 (2022, Tuesday, November 29th at 8:19 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table
+- - [x] Added an entry for Candroid Keyboard
+- - [x] Fixed a typo (`Candroid Nottepad` -> `Candroid Notepad`)
+- - [x] Updated the counter for how many items are on the catalog total
+- - [x] Updated the counter for how many items are on the catalog total (excluding the Candroid Core)
+- - [x] Updated the counter for how many items are on the catalog and have started development
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
+
+</details> <!-- End of version 7 !-->
 
 </details> <!-- End of version history !-->
 
