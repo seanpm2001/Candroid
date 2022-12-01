@@ -5,17 +5,19 @@
 
 [`See in separate repository`](https://github.com/seanpm2001/Candroid-Catalogue/)
 
-**Catalog version:** `8 (2022, Wednesday, November 30th at 8:15 pm PST)`
+**Catalog version:** `9 (2022, Thursday, December 1st at 1:45 pm PST)`
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the catalog table]</b></p></summary>
 
-| Icon | Name | Replaces | Description | :octocat: Repository | Secondary icon |
+<!-- An error occurred upon entering the secondary icon for the Candroid App Store. The secondary icon slots are too big, they used to be even with the primary icon slot !-->
+
+| 🤖️ Icon | 🔷️ Name | 💠️ Replaces | ℹ️ Description | :octocat: Repository | 🔶️ Secondary icon |
 |---|---|---|---|---|---|
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Core | Android framework | `Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.` | [`https://github.com/seanpm2001/Candroid/`](https://github.com/seanpm2001/Candroid/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid App Store | Google Play Store | `Coming soon` | [`https://github.com/seanpm2001/Candroid-App-Store/`](https://github.com/seanpm2001/Candroid-App-Store/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Assistant | Google Assistant | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Assistant/`](https://github.com/seanpm2001/Candroid-Assistant/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
+| ![/Graphics/Droids/Candroid-App-Store/PNG/Candroid-App-Store_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-App-Store/PNG/Candroid-App-Store_1000pIcon_V1_HighCompression.png) | Candroid App Store | Google Play Store | `Candroid does things different. The Candroid app store is a library of APK client wrappers (F-Droid, APKPure, etc.) For the main Candroid app store, try visiting the Candroid Market.` | [`https://github.com/seanpm2001/Candroid-App-Store/`](https://github.com/seanpm2001/Candroid-App-Store/) |![Graphics/Secondary-Icons/Candroid-App-Store/Bag-dynamic-gradient.png](/Graphics/Secondary-Icons/Candroid-App-Store/Bag-dynamic-gradient.png) |
+| ![/Graphics/Droids/Candroid-Assistant/PNG/Candroid-Assistant_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Assistant/PNG/Candroid-Assistant_1000pIcon_V1_HighCompression.png) | Candroid Assistant | Google Assistant | `Candroid Assistant is both a desktop guide and a voice assistant for the Candroid framework. It is designed to replace the Google Assistant found in Android, and also the desktop guide in early versions of Android (for example: Android 2.3)` | [`https://github.com/seanpm2001/Candroid-Assistant/`](https://github.com/seanpm2001/Candroid-Assistant/) |![Graphics/Secondary-Icons/Candroid-Assistant/Ambox_blue_question.svg](/Graphics/Secondary-Icons/Candroid-Assistant/Ambox_blue_question.svg) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Battery Monitor | Unknown | `Coming soon` |! [`https://github.com/seanpm2001/Candroid-Battery-Monitor/`](https://github.com/seanpm2001/Candroid-Battery-Monitor/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Browser | AOSP Stock browser & Google Chrome | `Coming soon`  | [`https://github.com/seanpm2001/Candroid-Browser/`](https://github.com/seanpm2001/Candroid-Browser) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
+| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Browser | AOSP Stock browser & Google Chrome | `Coming soon`  | [`https://github.com/seanpm2001/Candroid-Browser/`](https://github.com/seanpm2001/Candroid-Browser) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid-Calculator/PNG/Candroid-Calculator_Icon_1000p_HighCompression.png](/Graphics/Droids/Candroid-Calculator/PNG/Candroid-Calculator_Icon_1000p_HighCompression.png) | Candroid Calculator | Google Calculator | `The Candroid calculator application, an alternative to the Google calculator found in Android` | [`https://github.com/seanpm2001/Candroid-Calculator/`](https://github.com/seanpm2001/Candroid-Calculator/) | ![Graphics/Secondary-Icons/Candroid-Calculator/Calculator-Icon-Android_Lollipop.png](/Graphics/Secondary-Icons/Candroid-Calculator/Calculator-Icon-Android_Lollipop.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Calendar | Google Calendar | `Coming soon` |  [`https://github.com/seanpm2001/Candroid-Calendar/`](https://github.com/seanpm2001/Candroi-Calendar/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Camera | Google Camera | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Camera/`](https://github.com/seanpm2001/Candroid-Camera/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
@@ -50,9 +52,9 @@ Do not change the total item count from 25 to 26, as the coming soon entry is cu
 
 | Count | What for? |
 |---|---|
-| `25` | _total items in catalog, as of 2022, Wednesday, November 30th._ |
-| `11` | _total existing items in catalog (created repositories and in development) as of 2022, Wednesday, November 30th_ |
-| `10` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Wednesday, November 30th_ |
+| `25` | _total items in catalog, as of 2022, Thursday, December 1st._ |
+| `13` | _total existing items in catalog (created repositories and in development) as of 2022, Thursday, December 1st_ |
+| `12` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Thursday, December 1st_ |
 
 ***
 
@@ -62,9 +64,9 @@ Do not change the total item count from 25 to 26, as the coming soon entry is cu
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Wednesday, November 230th at 8:15 pm PST)`
+**File version:** `9 (2022, Thursday, December 1st at 1:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `251`
+**Line count (including blank lines and compiler line):** `276`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -244,6 +246,29 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] No other changes in version 8
 
 </details> <!-- End of version 8 !-->
+
+<details><summary><p lang="en"><b>Version 9 (2022, Thursday, December 1st at 1:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table
+- - [x] Added some more Emojis to the table
+- - [x] Added an entry for Candroid App Storeand Candroid Assistant
+- - [x] [INTERNAL] Added a source code comment regarding the table imbalance on 2022 December 1st with the Candroid App Store
+- - [x] Updated the counter for how many items are on the catalog total
+- - [x] Updated the counter for how many items are on the catalog total (excluding the Candroid Core)
+- - [x] Updated the counter for how many items are on the catalog and have started development
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
+
+</details> <!-- End of version 9 !-->
 
 </details> <!-- End of version history !-->
 
