@@ -12,17 +12,19 @@ Candroid is the ultimate Android BusyBox, and a complete open-source re-implemen
 
 [`See in separate repository`](https://github.com/seanpm2001/Candroid-Catalogue/)
 
-**Catalog version:** `8 (2022, Wednesday, November 30th at 8:15 pm PST)`
+**Catalog version:** `9 (2022, Thursday, December 1st at 1:45 pm PST)`
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the catalog table]</b></p></summary>
 
-| Icon | Name | Replaces | Description | :octocat: Repository | Secondary icon |
+<!-- An error occurred upon entering the secondary icon for the Candroid App Store. The secondary icon slots are too big, they used to be even with the primary icon slot !-->
+
+| 🤖️ Icon | 🔷️ Name | 💠️ Replaces | ℹ️ Description | :octocat: Repository | 🔶️ Secondary icon |
 |---|---|---|---|---|---|
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Core | Android framework | `Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.` | [`https://github.com/seanpm2001/Candroid/`](https://github.com/seanpm2001/Candroid/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid App Store | Google Play Store | `Coming soon` | [`https://github.com/seanpm2001/Candroid-App-Store/`](https://github.com/seanpm2001/Candroid-App-Store/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Assistant | Google Assistant | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Assistant/`](https://github.com/seanpm2001/Candroid-Assistant/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
+| ![/Graphics/Droids/Candroid-App-Store/PNG/Candroid-App-Store_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-App-Store/PNG/Candroid-App-Store_1000pIcon_V1_HighCompression.png) | Candroid App Store | Google Play Store | `Candroid does things different. The Candroid app store is a library of APK client wrappers (F-Droid, APKPure, etc.) For the main Candroid app store, try visiting the Candroid Market.` | [`https://github.com/seanpm2001/Candroid-App-Store/`](https://github.com/seanpm2001/Candroid-App-Store/) |![Graphics/Secondary-Icons/Candroid-App-Store/Bag-dynamic-gradient.png](/Graphics/Secondary-Icons/Candroid-App-Store/Bag-dynamic-gradient.png) |
+| ![/Graphics/Droids/Candroid-Assistant/PNG/Candroid-Assistant_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Assistant/PNG/Candroid-Assistant_1000pIcon_V1_HighCompression.png) | Candroid Assistant | Google Assistant | `Candroid Assistant is both a desktop guide and a voice assistant for the Candroid framework. It is designed to replace the Google Assistant found in Android, and also the desktop guide in early versions of Android (for example: Android 2.3)` | [`https://github.com/seanpm2001/Candroid-Assistant/`](https://github.com/seanpm2001/Candroid-Assistant/) |![Graphics/Secondary-Icons/Candroid-Assistant/Ambox_blue_question.svg](/Graphics/Secondary-Icons/Candroid-Assistant/Ambox_blue_question.svg) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Battery Monitor | Unknown | `Coming soon` |! [`https://github.com/seanpm2001/Candroid-Battery-Monitor/`](https://github.com/seanpm2001/Candroid-Battery-Monitor/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Browser | AOSP Stock browser & Google Chrome | `Coming soon`  | [`https://github.com/seanpm2001/Candroid-Browser/`](https://github.com/seanpm2001/Candroid-Browser) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
+| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Browser | AOSP Stock browser & Google Chrome | `Coming soon`  | [`https://github.com/seanpm2001/Candroid-Browser/`](https://github.com/seanpm2001/Candroid-Browser) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid-Calculator/PNG/Candroid-Calculator_Icon_1000p_HighCompression.png](/Graphics/Droids/Candroid-Calculator/PNG/Candroid-Calculator_Icon_1000p_HighCompression.png) | Candroid Calculator | Google Calculator | `The Candroid calculator application, an alternative to the Google calculator found in Android` | [`https://github.com/seanpm2001/Candroid-Calculator/`](https://github.com/seanpm2001/Candroid-Calculator/) | ![Graphics/Secondary-Icons/Candroid-Calculator/Calculator-Icon-Android_Lollipop.png](/Graphics/Secondary-Icons/Candroid-Calculator/Calculator-Icon-Android_Lollipop.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Calendar | Google Calendar | `Coming soon` |  [`https://github.com/seanpm2001/Candroid-Calendar/`](https://github.com/seanpm2001/Candroi-Calendar/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Camera | Google Camera | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Camera/`](https://github.com/seanpm2001/Candroid-Camera/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
@@ -57,9 +59,9 @@ Do not change the total item count from 25 to 26, as the coming soon entry is cu
 
 | Count | What for? |
 |---|---|
-| `25` | _total items in catalog, as of 2022, Wednesday, November 30th._ |
-| `11` | _total existing items in catalog (created repositories and in development) as of 2022, Wednesday, November 30th_ |
-| `10` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Wednesday, November 30th_ |
+| `25` | _total items in catalog, as of 2022, Thursday, December 1st._ |
+| `13` | _total existing items in catalog (created repositories and in development) as of 2022, Thursday, December 1st_ |
+| `12` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Thursday, December 1st_ |
 
 ***
 
@@ -198,9 +200,9 @@ Current objectives:
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Wednesday, November 30th at 8:23 pm PST)`
+**File version:** `7 (2022, Thursday, December 1st at 1:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `353`
+**Line count (including blank lines and compiler line):** `373`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -344,6 +346,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Updated an entry for version 6
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p lang="en"><b>Version 7 (2022, Thursday, December 1st at 1:54 PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Candroid Catalogue` section
+- - [x] Now matches V9 of the catalog
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Updated an entry for version 7
+- [ ] No other changes in version 7
 
 </details>
 
