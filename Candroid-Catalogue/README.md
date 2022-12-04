@@ -5,7 +5,7 @@
 
 [`See in separate repository`](https://github.com/seanpm2001/Candroid-Catalogue/)
 
-**Catalog version:** `10 (2022, Friday, December 2nd at 9:22 pm PST)`
+**Catalog version:** `11 (2022, Saturday, December 3rd at 6:03 pm PST)`
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the catalog table]</b></p></summary>
 
@@ -21,7 +21,7 @@
 | ![/Graphics/Droids/Candroid-Calculator/PNG/Candroid-Calculator_Icon_1000p_HighCompression.png](/Graphics/Droids/Candroid-Calculator/PNG/Candroid-Calculator_Icon_1000p_HighCompression.png) | Candroid Calculator | Google Calculator | `The Candroid calculator application, an alternative to the Google calculator found in Android` | [`https://github.com/seanpm2001/Candroid-Calculator/`](https://github.com/seanpm2001/Candroid-Calculator/) | ![Graphics/Secondary-Icons/Candroid-Calculator/Calculator-Icon-Android_Lollipop.png](/Graphics/Secondary-Icons/Candroid-Calculator/Calculator-Icon-Android_Lollipop.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Calendar | Google Calendar | `Coming soon` |  [`https://github.com/seanpm2001/Candroid-Calendar/`](https://github.com/seanpm2001/Candroi-Calendar/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Camera | Google Camera | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Camera/`](https://github.com/seanpm2001/Candroid-Camera/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Clock | Google Clock | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Clock/`](https://github.com/seanpm2001/Candroid-Clock/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
+| ![/Graphics/Droids/Candroid-Clock/PNG/Candroid-Clock_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Clock/PNG/Candroid-Clock_1000pIcon_V1_HighCompression.png) | Candroid Clock | Google Clock | `Candroid Clock is a clock application for Candroid. It is designed to replace the Android clock app.` | [`https://github.com/seanpm2001/Candroid-Clock/`](https://github.com/seanpm2001/Candroid-Clock/) |![Graphics/Secondary-Icons/Candroid-Clock/BlueClock1_999px.png](/Graphics/Secondary-Icons/Candroid-Clock/BlueClock1_999px.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Contacts | Google Contacts | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Contacts/`](https://github.com/seanpm2001/Candroid-Contacts/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid-Debug/PNG/Candroid-Debug_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Debug/PNG/Candroid-Debug_1000pIcon_V1_HighCompression.png) | Candroid Debug | `Unknown` | `Candroid Debug is a debugging tool for the Candroid framework/environment.` | [`https://github.com/seanpm2001/Candroid-Debug/`](https://github.com/seanpm2001/Candroid-Debug/) |![Graphics/Secondary-Icons/Candroid-Debug/Debug-Icon.png](/Graphics/Secondary-Icons/Candroid-Debug/Debug-Icon.png) |
 | ![/Graphics/Droids/Candroid-Easter-Egg/PNG/Candroid-Easter-Egg_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Easter-Egg/PNG/Candroid-Easter-Egg_1000pIcon_V1_HighCompression.png) | Candroid Easter Egg | Android Easter Egg | `Candroid Easter Egg is a set of hidden Easter Eggs for the Candroid framework/environment. It is designed to replace Android Easter Eggs, but not exactly the same way.` | [`https://github.com/seanpm2001/Candroid-Easter-Egg/`](https://github.com/seanpm2001/Candroid-Easter-Egg/) | ![Graphics/Secondary-Icons/Candroid-Easter-Egg/Blue_EasterEgg.png](/Graphics/Secondary-Icons/Candroid-Easter-Egg/Blue_EasterEgg.png) |
@@ -36,7 +36,7 @@
 | ![/Graphics/Droids/Candroid-Tube/PNG/Candroid-Tube_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Tube/PNG/Candroid-Tube_1000pIcon_V1_HighCompression.png) | Candroid Tube | YouTube (application) | `Candroid Tube is a video platform wrapper, which replaces YouTube with Vimeo, DailyMotion, BitTube, Reddit, and other video sites. An alternative to the YouTube app on Android.` | [`https://github.com/seanpm2001/Candroid-Tube/`](https://github.com/seanpm2001/Candroid-Tube/) | ![Graphics/Secondary-Icons/Candroid-Tube/VideoIcon1_Blue.png](/Graphics/Secondary-Icons/Candroid-Tube/VideoIcon1_Blue.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid TV | Android TV | `Coming soon` | [`https://github.com/seanpm2001/Candroid-TV/`](https://github.com/seanpm2001/Candroid-TV/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) 
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Video | Android Video Player | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Video/`](https://github.com/seanpm2001/Candroid-Video/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Voicemail | Android Voicemail | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Voicemail/`](https://github.com/seanpm2001/Candroid-Voicemail/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
+| ![/Graphics/Droids/Candroid-Voicemail/PNG/Candroid-Voicemail_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Voicemail/PNG/Candroid-Voicemail_1000pIcon_V1_HighCompression.png) | Candroid Voicemail | Android Voicemail | `Candroid Voicemail is a voicemail application for Candroid for reading, sending, and receiving voicemails. It is designed to replace the Android Voicemail app.` | [`https://github.com/seanpm2001/Candroid-Voicemail/`](https://github.com/seanpm2001/Candroid-Voicemail/) |![Graphics/Secondary-Icons/Candroid-Voicemail/Voicemail-Icon1.png](/Graphics/Secondary-Icons/Candroid-Voicemail/Voicemail-Icon1.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Wallpaper | Android Core (partial) | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Wallpaper/`](https://github.com/seanpm2001/Candroid-Wallpaper/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Coming soon | Coming soon | `Coming soon` | [`Coming soon`](https://www.example.com/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 
@@ -46,15 +46,12 @@
 
 ( [`Browse older versions of the catalog (table)`](/Candroid-Catalogue/!OldVersions/TABLE/) | [`Browse older versions of the catalog (full listing)`](/Candroid-Catalogue/!OldVersions/README/) )
 
-<!-- Notes
-Do not change the total item count from 25 to 26, as the coming soon entry is currently included
-!-->
-
 | Count | What for? |
 |---|---|
-| `25` | _total items in catalog, as of 2022, Friday, December 2nd._ |
-| `15` | _total existing items in catalog (created repositories and in development) as of 2022, Friday, December 2nd_ |
-| `14` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Friday, December 2nd_ |
+| `26` | _total entries in catalog (including the `coming soon` entry) as of 2022, Saturday, December 3rd._ |
+| `25` | _total items in catalog, as of 2022, Saturday, December 3rd._ |
+| `17` | _total existing items in catalog (created repositories and in development) as of 2022, Saturday, December 3rd_ |
+| `16` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Saturday, December 3rd_ |
 
 ***
 
@@ -64,9 +61,9 @@ Do not change the total item count from 25 to 26, as the coming soon entry is cu
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2022, Friday, December 2nd at 9:22 pm PST)`
+**File version:** `11 (2022, Saturday, December 3rd at 6:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `297`
+**Line count (including blank lines and compiler line):** `316`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -290,6 +287,28 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] No other changes in version 10
 
 </details> <!-- End of version 10 !-->
+
+<details><summary><p lang="en"><b>Version 11 (2022, Saturday, December 3rd at 6:03 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table
+- - [x] Added an entry for Candroid Clock and Candroid Voicemail
+- - [x] Added a counter for how many entries are on the catalog total (including the `Coming soon` entry)
+- - [x] Updated the counter for how many items are on the catalog total
+- - [x] Updated the counter for how many items are on the catalog total (excluding the Candroid Core)
+- - [x] Updated the counter for how many items are on the catalog and have started development
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 11
+- [ ] No other changes in version 11
+
+</details> <!-- End of version 11 !-->
 
 </details> <!-- End of version history !-->
 
