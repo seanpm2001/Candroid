@@ -3,9 +3,12 @@
 
 # Candroid catalogue
 
-[`See in separate repository`](https://github.com/seanpm2001/Candroid-Catalogue/)
+| <img alt="Candroid Catalog Droid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Droids/Candroid-Catalog/PNG/Candroid-Catalog_1000pIcon_V1_HighCompression.png" width="200" height="200"/> |
+|---|
+| **Candroid Catalog/Catalogue** |
+| [`See in separate repository`](https://github.com/seanpm2001/Candroid-Catalogue/) |
 
-**Catalog version:** `14 (2022, Wednesday, December 7th at 6:48 pm PST)`
+**Catalog version:** `15 (2022, Thursday, December 8th at 3:50 pm PST)`
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the catalog table]</b></p></summary>
 
@@ -34,8 +37,8 @@
 | ![/Graphics/Droids/Candroid-Photo-Viewer/PNG/Candroid-Photo-Viewer_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Photo-Viewer/PNG/Candroid-Photo-Viewer_1000pIcon_V1_HighCompression.png) | Candroid Photo Viewer | Google Image Viewer | `Candroid Photo Viewer is the default image viewer for Candroid. It supports all the image formats Android does, except it supports NetP instead of WebP.` | [`https://github.com/seanpm2001/Candroid-Photo-Viewer/`](https://github.com/seanpm2001/Candroid-Photo-Viewer/) | ![Graphics/Secondary-Icons/Candroid-Photo-Viewer/Folder-Images-Icon.png](/Graphics/Secondary-Icons/Candroid-Photo-Viewer/Folder-Images-Icon.png) |
 | ![/Graphics/Droids/Candroid-Settings/PNG/Candroid-Settings_Icon_1000p_HighCompression.png](/Graphics/Droids/Candroid-Settings/PNG/Candroid-Settings_Icon_1000p_HighCompression.png) | Candroid Settings | Android Settings | `🤖️ Candroid Settings is the settings app for Candroid. It is designed to replace/enhance the Android system settings application.` | [`https://github.com/seanpm2001/Candroid-Settings/`](https://github.com/seanpm2001/Candroid-Settings/) |![Graphics/Secondary-Icons/Candroid-Settings/Gear-Silver-and-blue_1.png](/Graphics/Secondary-Icons/Candroid-Settings/Gear-Silver-and-blue_1.png) |
 | ![/Graphics/Droids/Candroid-Tube/PNG/Candroid-Tube_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Tube/PNG/Candroid-Tube_1000pIcon_V1_HighCompression.png) | Candroid Tube | YouTube (application) | `Candroid Tube is a video platform wrapper, which replaces YouTube with Vimeo, DailyMotion, BitTube, Reddit, and other video sites. An alternative to the YouTube app on Android.` | [`https://github.com/seanpm2001/Candroid-Tube/`](https://github.com/seanpm2001/Candroid-Tube/) | ![Graphics/Secondary-Icons/Candroid-Tube/VideoIcon1_Blue.png](/Graphics/Secondary-Icons/Candroid-Tube/VideoIcon1_Blue.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid TV | Android TV | `Coming soon` | [`https://github.com/seanpm2001/Candroid-TV/`](https://github.com/seanpm2001/Candroid-TV/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) 
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Video | Android Video Player | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Video/`](https://github.com/seanpm2001/Candroid-Video/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
+| ![/Graphics/Droids/Candroid-TV/PNG/Candroid-TV_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-TV/PNG/Candroid-TV_1000pIcon_V1_HighCompression.png) | Candroid TV | Android TV | `🤖️ Candroid TV is a TV application and environment designed to replace Google TV/Android TV in a more privacy-oriented way.` | [`https://github.com/seanpm2001/Candroid-TV/`](https://github.com/seanpm2001/Candroid-TV/) |![Graphics/Secondary-Icons/Candroid-TV/Old_TV_Icon.png](/Graphics/Secondary-Icons/Candroid-TV/Old_TV_Icon.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) 
+| ![/Graphics/Droids/Candroid-Video/PNG/Candroid-Video_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Video/PNG/Candroid-Video_1000pIcon_V1_HighCompression.png) | Candroid Video | Android Video Player | `🤖️ Candroid Video is a video application for the Candroid framework that replaces the stock Android videos application.` | [`https://github.com/seanpm2001/Candroid-Video/`](https://github.com/seanpm2001/Candroid-Video/) |![Graphics/Secondary-Icons/Candroid-Video/Video_Player_Tango-like_Icon.png](/Graphics/Secondary-Icons/Candroid-Video/Video_Player_Tango-like_Icon.png) |
 | ![/Graphics/Droids/Candroid-Voicemail/PNG/Candroid-Voicemail_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Voicemail/PNG/Candroid-Voicemail_1000pIcon_V1_HighCompression.png) | Candroid Voicemail | Android Voicemail | `Candroid Voicemail is a voicemail application for Candroid for reading, sending, and receiving voicemails. It is designed to replace the Android Voicemail app.` | [`https://github.com/seanpm2001/Candroid-Voicemail/`](https://github.com/seanpm2001/Candroid-Voicemail/) |![Graphics/Secondary-Icons/Candroid-Voicemail/Voicemail-Icon1.png](/Graphics/Secondary-Icons/Candroid-Voicemail/Voicemail-Icon1.png) |
 | ![/Graphics/Droids/Candroid-Wallpaper/PNG/Candroid-Wallpaper_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Wallpaper/PNG/Candroid-Wallpaper_1000pIcon_V1_HighCompression.png) | Candroid Wallpaper | Android Core (partial) | `🤖️ Candroid Wallpaper is the wallpaper engine and customization application for Candroid. It is designed to replace Android wallpaper functionality with a new framework.` | [`https://github.com/seanpm2001/Candroid-Wallpaper/`](https://github.com/seanpm2001/Candroid-Wallpaper/) |![Graphics/Secondary-Icons/Candroid-Wallpaper/StripedWallpaperIcon_1.png](/Graphics/Secondary-Icons/Candroid-Wallpaper/StripedWallpaperIcon_1.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Coming soon | Coming soon | `Coming soon` | [`Coming soon`](https://www.example.com/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
@@ -48,10 +51,10 @@
 
 | Count | What for? |
 |---|---|
-| `26` | _total entries in catalog (including the `coming soon` entry) as of 2022, Wednesday, December 7th._ |
-| `25` | _total items in catalog, as of 2022, Wednesday, December 7th._ |
-| `23` | _total existing items in catalog (created repositories and in development) as of 2022, Wednesday, December 7th._ |
-| `22` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Wednesday, December 7th._ |
+| `26` | _total entries in catalog (including the `coming soon` entry) as of 2022, Thursday, December 8th._ |
+| `25` | _total items in catalog, as of 2022, Thursday, December 8th._ |
+| `25` | _total existing items in catalog (created repositories and in development) as of 2022, Thursday, December 8th._ |
+| `24` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Thursday, December 8th._ |
 
 ***
 
@@ -61,9 +64,9 @@
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2022, Wednesday, December 7th at 6:48 pm PST)`
+**File version:** `15 (2022, Thursday, December 8th at 3:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `384`
+**Line count (including blank lines and compiler line):** `413`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -354,7 +357,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details> <!-- End of version 13 !-->
 
-<details><summary><p lang="en"><b>Version 14 (2022, Wednesday, December 5th at 6:48 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 14 (2022, Wednesday, December 7th at 6:48 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -377,6 +380,32 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] No other changes in version 14
 
 </details> <!-- End of version 14 !-->
+
+<details><summary><p lang="en"><b>Version 15 (2022, Thursday, December 8th at 3:50 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+**Notes:** _Final update (for now) as I have no more entries to add_
+
+> Changes:
+
+- [x] Added a logo to the top of the file
+- [x] Added a table for the logo, and the link to the separate repository
+- [x] Updated the main table
+- - [x] Added an entry for Candroid TV and Candroid Video
+- - [x] Updated the counter for how many entries are on the catalog total (including the `Coming soon` entry)
+- - [x] Updated the counter for how many items are on the catalog total
+- - [x] Updated the counter for how many items are on the catalog total (excluding the Candroid Core)
+- - [x] Updated the counter for how many items are on the catalog and have started development
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 15
+- [ ] No other changes in version 15
+
+</details> <!-- End of version 15 !-->
 
 </details> <!-- End of version history !-->
 
