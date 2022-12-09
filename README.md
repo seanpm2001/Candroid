@@ -8,11 +8,14 @@ Candroid is the ultimate Android BusyBox, and a complete open-source re-implemen
 
 ***
 
-## Candroid catalogue
+# Candroid catalogue
 
-[`See in separate repository`](https://github.com/seanpm2001/Candroid-Catalogue/)
+| <img alt="Candroid Catalog Droid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Droids/Candroid-Catalog/PNG/Candroid-Catalog_1000pIcon_V1_HighCompression.png" width="200" height="200"/> |
+|---|
+| **Candroid Catalog/Catalogue** |
+| [`See in separate repository`](https://github.com/seanpm2001/Candroid-Catalogue/) |
 
-**Catalog version:** `14 (2022, Wednesday, December 7th at 6:48 pm PST)`
+**Catalog version:** `15 (2022, Thursday, December 8th at 3:50 pm PST)`
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the catalog table]</b></p></summary>
 
@@ -41,8 +44,8 @@ Candroid is the ultimate Android BusyBox, and a complete open-source re-implemen
 | ![/Graphics/Droids/Candroid-Photo-Viewer/PNG/Candroid-Photo-Viewer_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Photo-Viewer/PNG/Candroid-Photo-Viewer_1000pIcon_V1_HighCompression.png) | Candroid Photo Viewer | Google Image Viewer | `Candroid Photo Viewer is the default image viewer for Candroid. It supports all the image formats Android does, except it supports NetP instead of WebP.` | [`https://github.com/seanpm2001/Candroid-Photo-Viewer/`](https://github.com/seanpm2001/Candroid-Photo-Viewer/) | ![Graphics/Secondary-Icons/Candroid-Photo-Viewer/Folder-Images-Icon.png](/Graphics/Secondary-Icons/Candroid-Photo-Viewer/Folder-Images-Icon.png) |
 | ![/Graphics/Droids/Candroid-Settings/PNG/Candroid-Settings_Icon_1000p_HighCompression.png](/Graphics/Droids/Candroid-Settings/PNG/Candroid-Settings_Icon_1000p_HighCompression.png) | Candroid Settings | Android Settings | `🤖️ Candroid Settings is the settings app for Candroid. It is designed to replace/enhance the Android system settings application.` | [`https://github.com/seanpm2001/Candroid-Settings/`](https://github.com/seanpm2001/Candroid-Settings/) |![Graphics/Secondary-Icons/Candroid-Settings/Gear-Silver-and-blue_1.png](/Graphics/Secondary-Icons/Candroid-Settings/Gear-Silver-and-blue_1.png) |
 | ![/Graphics/Droids/Candroid-Tube/PNG/Candroid-Tube_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Tube/PNG/Candroid-Tube_1000pIcon_V1_HighCompression.png) | Candroid Tube | YouTube (application) | `Candroid Tube is a video platform wrapper, which replaces YouTube with Vimeo, DailyMotion, BitTube, Reddit, and other video sites. An alternative to the YouTube app on Android.` | [`https://github.com/seanpm2001/Candroid-Tube/`](https://github.com/seanpm2001/Candroid-Tube/) | ![Graphics/Secondary-Icons/Candroid-Tube/VideoIcon1_Blue.png](/Graphics/Secondary-Icons/Candroid-Tube/VideoIcon1_Blue.png) |
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid TV | Android TV | `Coming soon` | [`https://github.com/seanpm2001/Candroid-TV/`](https://github.com/seanpm2001/Candroid-TV/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) 
-| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Video | Android Video Player | `Coming soon` | [`https://github.com/seanpm2001/Candroid-Video/`](https://github.com/seanpm2001/Candroid-Video/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
+| ![/Graphics/Droids/Candroid-TV/PNG/Candroid-TV_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-TV/PNG/Candroid-TV_1000pIcon_V1_HighCompression.png) | Candroid TV | Android TV | `🤖️ Candroid TV is a TV application and environment designed to replace Google TV/Android TV in a more privacy-oriented way.` | [`https://github.com/seanpm2001/Candroid-TV/`](https://github.com/seanpm2001/Candroid-TV/) |![Graphics/Secondary-Icons/Candroid-TV/Old_TV_Icon.png](/Graphics/Secondary-Icons/Candroid-TV/Old_TV_Icon.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) 
+| ![/Graphics/Droids/Candroid-Video/PNG/Candroid-Video_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Video/PNG/Candroid-Video_1000pIcon_V1_HighCompression.png) | Candroid Video | Android Video Player | `🤖️ Candroid Video is a video application for the Candroid framework that replaces the stock Android videos application.` | [`https://github.com/seanpm2001/Candroid-Video/`](https://github.com/seanpm2001/Candroid-Video/) |![Graphics/Secondary-Icons/Candroid-Video/Video_Player_Tango-like_Icon.png](/Graphics/Secondary-Icons/Candroid-Video/Video_Player_Tango-like_Icon.png) |
 | ![/Graphics/Droids/Candroid-Voicemail/PNG/Candroid-Voicemail_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Voicemail/PNG/Candroid-Voicemail_1000pIcon_V1_HighCompression.png) | Candroid Voicemail | Android Voicemail | `Candroid Voicemail is a voicemail application for Candroid for reading, sending, and receiving voicemails. It is designed to replace the Android Voicemail app.` | [`https://github.com/seanpm2001/Candroid-Voicemail/`](https://github.com/seanpm2001/Candroid-Voicemail/) |![Graphics/Secondary-Icons/Candroid-Voicemail/Voicemail-Icon1.png](/Graphics/Secondary-Icons/Candroid-Voicemail/Voicemail-Icon1.png) |
 | ![/Graphics/Droids/Candroid-Wallpaper/PNG/Candroid-Wallpaper_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Wallpaper/PNG/Candroid-Wallpaper_1000pIcon_V1_HighCompression.png) | Candroid Wallpaper | Android Core (partial) | `🤖️ Candroid Wallpaper is the wallpaper engine and customization application for Candroid. It is designed to replace Android wallpaper functionality with a new framework.` | [`https://github.com/seanpm2001/Candroid-Wallpaper/`](https://github.com/seanpm2001/Candroid-Wallpaper/) |![Graphics/Secondary-Icons/Candroid-Wallpaper/StripedWallpaperIcon_1.png](/Graphics/Secondary-Icons/Candroid-Wallpaper/StripedWallpaperIcon_1.png) |
 | ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Coming soon | Coming soon | `Coming soon` | [`Coming soon`](https://www.example.com/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
@@ -55,40 +58,66 @@ Candroid is the ultimate Android BusyBox, and a complete open-source re-implemen
 
 | Count | What for? |
 |---|---|
-| `26` | _total entries in catalog (including the `coming soon` entry) as of 2022, Wednesday, December 7th._ |
-| `25` | _total items in catalog, as of 2022, Wednesday, December 7th._ |
-| `23` | _total existing items in catalog (created repositories and in development) as of 2022, Wednesday, December 7th._ |
-| `22` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Wednesday, December 7th._ |
+| `26` | _total entries in catalog (including the `coming soon` entry) as of 2022, Thursday, December 8th._ |
+| `25` | _total items in catalog, as of 2022, Thursday, December 8th._ |
+| `25` | _total existing items in catalog (created repositories and in development) as of 2022, Thursday, December 8th._ |
+| `24` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Thursday, December 8th._ |
 
 ***
 
 ## Documentation
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 Documentation is available in this repository, or an external repository. It is not in the `README` itself.
 
-( [`Read the Candroid Docs in this repository`](/Docs/) | [`Read the Candroid Docs in the Candroid documentation repository`](https://github.com/seanpm2001/Candroid-Docs/) )
+| <img alt="Candroid Documentation Droid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Droids/Candroid-Docs/PNG/Candroid-Docs_1000pIcon_V1_HighCompression.png" width="200" height="200"/> | <img alt="Candroid Documentation logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Secondary-Icons/Candroid-Docs/Documentation.png" width="200" height="200"/> |
+|---|---|
+| [`Read the Candroid Docs in this repository`](/Docs/) | [`Read the Candroid Docs in the Candroid documentation repository`](https://github.com/seanpm2001/Candroid-Docs/) |
+
+</details>
 
 ***
 
 ## Development
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 ### Candroid core
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 #### Android framework
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![Android CI](https://github.com/seanpm2001/Candroid/actions/workflows/android.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/android.yml) |
 |---|
 | Android Continous Integration |
 
+</details>
+
+</details>
+
 ### Security
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 #### CodeQL Analysis
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![CodeQL](https://github.com/seanpm2001/Candroid/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/codeql-analysis.yml) |
 |---|
 | CodeQL Analysis |
 
+</details>
+
+</details>
+
 ### Website
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 Current objectives:
 
@@ -99,6 +128,8 @@ Current objectives:
 
 #### Jekyll
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 | [![Deploy Jekyll site to Pages](https://github.com/seanpm2001/Candroid/actions/workflows/jekyll.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/jekyll.yml) |
 |---|
 | Jekyll deploy |
@@ -107,15 +138,27 @@ Current objectives:
 |---|
 | Jekyll deploy (with dependencies) |
 
+</details>
+
 #### Static HTML
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![Deploy static content to Pages](https://github.com/seanpm2001/Candroid/actions/workflows/github-pages-static.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/github-pages-static.yml) |
 |---|
 | Static HTML |
 
+</details>
+
+</details>
+
 ### Java frameworks
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 #### Gradle
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![Gradle Package](https://github.com/seanpm2001/Candroid/actions/workflows/java-gradle-publish.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/java-gradle-publish.yml) |
 |---|
@@ -125,13 +168,21 @@ Current objectives:
 |---|
 | Java Gradle Continuous Integration |
 
+</details>
+
 #### Ant
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![Java CI](https://github.com/seanpm2001/Candroid/actions/workflows/java-ant.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/java-ant.yml) |
 |---|
 | Java Ant |
 
+</details>
+
 #### Maven
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![Java CI with Maven](https://github.com/seanpm2001/Candroid/actions/workflows/java-maven.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/java-maven.yml) |
 |---|
@@ -141,21 +192,39 @@ Current objectives:
 |---|
 | Java Maven Package (publish) |
 
+</details>
+
+</details>
+
 ### Python frameworks
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 #### DJango
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![Django CI](https://github.com/seanpm2001/Candroid/actions/workflows/django.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/django.yml) |
 |---|
 | DJango |
 
+</details>
+
+</details>
+
 #### Application
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![Python application](https://github.com/seanpm2001/Candroid/actions/workflows/python-app.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/python-app.yml) |
 |---|
 | Python App |
 
+</details>
+
 #### Package
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![Python package](https://github.com/seanpm2001/Candroid/actions/workflows/python-package.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/python-package.yml) |
 |---|
@@ -169,7 +238,11 @@ Current objectives:
 |---|
 | Generic Python package publishing |
 
+</details>
+
 ### Google Go frameworks
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![Go](https://github.com/seanpm2001/Candroid/actions/workflows/google-go.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/google-go.yml) |
 |---|
@@ -183,7 +256,11 @@ Current objectives:
 |---|
 | SLSA3 OSSF Google Go (publishing) |
 
+</details>
+
 ### Linting
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | [![Lint Code Base](https://github.com/seanpm2001/Candroid/actions/workflows/super-linter.yml/badge.svg)](https://github.com/seanpm2001/Candroid/actions/workflows/super-linter.yml) |
 |---|
@@ -197,6 +274,10 @@ Current objectives:
 |---|
 | YAML Linter |
 
+</details>
+
+</details>
+
 ***
 
 ### File info
@@ -205,9 +286,9 @@ Current objectives:
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2022, Wednesday, December 7th at 6:57 pm PST)`
+**File version:** `13 (2022, Thursday, December 8th at 4:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `469`
+**Line count (including blank lines and compiler line):** `573`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -460,6 +541,29 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Updated an entry for version 12
 - [ ] No other changes in version 12
+
+</details>
+
+<details><summary><p lang="en"><b>Version 13 (2022, Thursday, December 8th at 4:06 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Candroid Catalogue` section
+- - [x] Now matches V15 of the catalog
+- [x] Updated the documentation section
+- - [x] Turned the link choice into a table, with 2 graphics
+- - [x] Turned the section into a dropdown
+- [x] Updated the `Development` workflows section
+- - [x] Made every section into a dropdown
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Updated an entry for version 13
+- [ ] No other changes in version 13
 
 </details>
 
