@@ -1,9 +1,30 @@
 
 ***
 
-<img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Candroid.png" width="256"/> <!-- TODO Center this image !-->
+<!--
+<script>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</script>
+!-->
 
-# Candroid
+<table>
+  <tr>
+    <td align="center"><b><a href="https://github.com/seanpm2001/Candroid-Docs/">Candroid docs</a></b><img alt="Candroid Docs logo failed to load. Click/tap here to attempt to view it" src="Graphics/Droids/Candroid-Docs/PNG/Candroid-Docs_1000pIcon_V1_HighCompression.png" width="300" height="300" class="center"/></td>
+    <td align="center"><b><a href="https://github.com/seanpm2001/Candroid/">Candroid project</a></b><img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Candroid.png" width="400" height="400" class="center"/></td>
+    <td align="center"><b><a href="https://github.com/seanpm2001/Candroid-Catalogue/">Candroid Catalog</a></b><img alt="Candroid Catalog logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Droids/Candroid-Catalog/PNG/Candroid-Catalog_1000pIcon_V1_HighCompression.png" width="300" height="300" class="center"/></td>
+  </tr>
+</table>
+
+<!--
+<img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Candroid.png" width="256" height="256" class="center"/> !--> <!-- TODO Center this image !-->
+
+<H1 style="text-align: center;">Candroid</H1>
+
 Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.
 
 ***
@@ -15,7 +36,7 @@ Candroid is the ultimate Android BusyBox, and a complete open-source re-implemen
 | **Candroid Catalog/Catalogue** |
 | [`See in separate repository`](https://github.com/seanpm2001/Candroid-Catalogue/) |
 
-**Catalog version:** `15 (2022, Thursday, December 8th at 3:50 pm PST)`
+**Catalog version:** `16 (2022, Wednesday, December 14th at 5:16 pm PST)`
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the catalog table]</b></p></summary>
 
@@ -36,12 +57,14 @@ Candroid is the ultimate Android BusyBox, and a complete open-source re-implemen
 | ![/Graphics/Droids/Candroid-Debug/PNG/Candroid-Debug_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Debug/PNG/Candroid-Debug_1000pIcon_V1_HighCompression.png) | Candroid Debug | `Unknown` | `Candroid Debug is a debugging tool for the Candroid framework/environment.` | [`https://github.com/seanpm2001/Candroid-Debug/`](https://github.com/seanpm2001/Candroid-Debug/) |![Graphics/Secondary-Icons/Candroid-Debug/Debug-Icon.png](/Graphics/Secondary-Icons/Candroid-Debug/Debug-Icon.png) |
 | ![/Graphics/Droids/Candroid-Easter-Egg/PNG/Candroid-Easter-Egg_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Easter-Egg/PNG/Candroid-Easter-Egg_1000pIcon_V1_HighCompression.png) | Candroid Easter Egg | Android Easter Egg | `Candroid Easter Egg is a set of hidden Easter Eggs for the Candroid framework/environment. It is designed to replace Android Easter Eggs, but not exactly the same way.` | [`https://github.com/seanpm2001/Candroid-Easter-Egg/`](https://github.com/seanpm2001/Candroid-Easter-Egg/) | ![Graphics/Secondary-Icons/Candroid-Easter-Egg/Blue_EasterEgg.png](/Graphics/Secondary-Icons/Candroid-Easter-Egg/Blue_EasterEgg.png) |
 | ![/Graphics/Droids/Candroid-FileCabinet/PNG/Candroid-FIleCabinet_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-FileCabinet/PNG/Candroid-FIleCabinet_1000pIcon_V1_HighCompression.png) | Candroid File Cabinet | Google Files | `Candroid FileCabinet is a file manager app for the Candroid framework/environment. It is a replacement to the Google Files application.` | [`https://github.com/seanpm2001/Candroid-FileCabinet/`](https://github.com/seanpm2001/Candroid-FileCabinet/) |![Graphics/Secondary-Icons/Candroid-FileCabinet/](/Graphics/Secondary-Icons/Candroid-FileCabinet/FileCabinetIcon2.png) |
+| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Flashlight | Android Flashlight | `Coming soon` | [`Coming soon`](https://github.com/seanpm2001/Candroid-Flashlight/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid-Keyboard/PNG/Candroid-Keyboard_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Keyboard/PNG/Candroid-Keyboard_1000pIcon_V1_HighCompression.png) | Candroid Keyboard | Android Keyboard & Google GBoard | `Candroid Keyboard is a keyboard application for the Candroid framework/environment, designed to replace both GBoard, and the default Android keyboard.` | [`https://github.com/seanpm2001/Candroid-Keyboard/`](https://github.com/seanpm2001/Candroid-Keyboard/) |![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid-Keyboard/Keyboard_Icon_Blue.png) |
 | ![/Graphics/Droids/Candroid-Market/PNG/Candroid-Market_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Market/PNG/Candroid-Market_1000pIcon_V1_HighCompression.png) | Candroid Market | Android Market | `Candroid Market is a replacement for the older Android Market for the Candroid framework/environment. It is designed differently than the Candroid App Store. The Candroid Market is a single distribution APK front.` | [`https://github.com/seanpm2001/Candroid-Market/`](https://github.com/seanpm2001/Candroid-Market/) |![Graphics/Secondary-Icons/Candroid-Market/Blue_Shopping-Bag.png](/Graphics/Secondary-Icons/Candroid-Market/Blue_Shopping-Bag.png) |
 | ![/Graphics/Droids/Candroid-Mail/PNG/Candroid-Mail_Icon_1000px_V1_HighCompression.png](/Graphics/Droids/Candroid-Mail/PNG/Candroid-Mail_Icon_1000px_V1_HighCompression.png) | Candroid Mail | GMail (application) | `Candroid Mail is a email platform wrapper, which replaces GMail with ProtonMail, and other email sites. An alternative to the GMail app on Android.` | [`https://github.com/seanpm2001/Candroid-Mail/`](https://github.com/seanpm2001/Candroid-Mail/) | ![Graphics/Secondary-Icons/Candroid-Mail/Mail-Icon1.png](/Graphics/Secondary-Icons/Candroid-Mail/Mail-Icon1.png) |
 | ![/Graphics/Droids/Candroid-Notepad/PNG/Candroid-Notepad_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Notepad/PNG/Candroid-Notepad_1000pIcon_V1_HighCompression.png) | Candroid Notepad | Nothing | `Candroid Notepad is a notepad app for the Candroid framework/environment. It is not a replacement to an Android stock program, as Android never included a notepad` | [`https://github.com/seanpm2001/Candroid-Mail/`](https://github.com/seanpm2001/Candroid-Notepad/) | ![Graphics/Secondary-Icons/Candroid-Notepad/Notepad-Icon-1.png](/Graphics/Secondary-Icons/Candroid-Notepad/Notepad-Icon-1.png) |
 | ![/Graphics/Droids/Candroid-Phone/PNG/Candroid-Phone_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Phone/PNG/Candroid-Phone_1000pIcon_V1_HighCompression.png) | Candroid Phone | Google Phone | `Candroid Phone is a cellular phone call app for the Candroid framework/environment. It is a replacement to the Google Phone application.` | [`https://github.com/seanpm2001/Candroid-Phone/`](https://github.com/seanpm2001/Candroid-Phone/) | ![Graphics/Secondary-Icons/Candroid-Phone/PhoneIcon1_Blue.png](/Graphics/Secondary-Icons/Candroid-Phone/PhoneIcon1_Blue.png) |
 | ![/Graphics/Droids/Candroid-Photo-Viewer/PNG/Candroid-Photo-Viewer_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Photo-Viewer/PNG/Candroid-Photo-Viewer_1000pIcon_V1_HighCompression.png) | Candroid Photo Viewer | Google Image Viewer | `Candroid Photo Viewer is the default image viewer for Candroid. It supports all the image formats Android does, except it supports NetP instead of WebP.` | [`https://github.com/seanpm2001/Candroid-Photo-Viewer/`](https://github.com/seanpm2001/Candroid-Photo-Viewer/) | ![Graphics/Secondary-Icons/Candroid-Photo-Viewer/Folder-Images-Icon.png](/Graphics/Secondary-Icons/Candroid-Photo-Viewer/Folder-Images-Icon.png) |
+| ![/Graphics/Droids/Candroid/PNG/Candroid.png](/Graphics/Droids/Candroid/PNG/Candroid.png) | Candroid Rotate | Android Rotate mode, Android Portrait Mode, Android Landscape mode | `Coming soon` | [`Coming soon`](https://github.com/seanpm2001/Candroid-Rotate/) | ![Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) |
 | ![/Graphics/Droids/Candroid-Settings/PNG/Candroid-Settings_Icon_1000p_HighCompression.png](/Graphics/Droids/Candroid-Settings/PNG/Candroid-Settings_Icon_1000p_HighCompression.png) | Candroid Settings | Android Settings | `🤖️ Candroid Settings is the settings app for Candroid. It is designed to replace/enhance the Android system settings application.` | [`https://github.com/seanpm2001/Candroid-Settings/`](https://github.com/seanpm2001/Candroid-Settings/) |![Graphics/Secondary-Icons/Candroid-Settings/Gear-Silver-and-blue_1.png](/Graphics/Secondary-Icons/Candroid-Settings/Gear-Silver-and-blue_1.png) |
 | ![/Graphics/Droids/Candroid-Tube/PNG/Candroid-Tube_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-Tube/PNG/Candroid-Tube_1000pIcon_V1_HighCompression.png) | Candroid Tube | YouTube (application) | `Candroid Tube is a video platform wrapper, which replaces YouTube with Vimeo, DailyMotion, BitTube, Reddit, and other video sites. An alternative to the YouTube app on Android.` | [`https://github.com/seanpm2001/Candroid-Tube/`](https://github.com/seanpm2001/Candroid-Tube/) | ![Graphics/Secondary-Icons/Candroid-Tube/VideoIcon1_Blue.png](/Graphics/Secondary-Icons/Candroid-Tube/VideoIcon1_Blue.png) |
 | ![/Graphics/Droids/Candroid-TV/PNG/Candroid-TV_1000pIcon_V1_HighCompression.png](/Graphics/Droids/Candroid-TV/PNG/Candroid-TV_1000pIcon_V1_HighCompression.png) | Candroid TV | Android TV | `🤖️ Candroid TV is a TV application and environment designed to replace Google TV/Android TV in a more privacy-oriented way.` | [`https://github.com/seanpm2001/Candroid-TV/`](https://github.com/seanpm2001/Candroid-TV/) |![Graphics/Secondary-Icons/Candroid-TV/Old_TV_Icon.png](/Graphics/Secondary-Icons/Candroid-TV/Old_TV_Icon.png) | [Graphics/Secondary-Icons/Candroid/PlaceholderX.png](/Graphics/Secondary-Icons/Candroid/PlaceholderX.png) 
@@ -58,8 +81,8 @@ Candroid is the ultimate Android BusyBox, and a complete open-source re-implemen
 
 | Count | What for? |
 |---|---|
-| `26` | _total entries in catalog (including the `coming soon` entry) as of 2022, Thursday, December 8th._ |
-| `25` | _total items in catalog, as of 2022, Thursday, December 8th._ |
+| `28` | _total entries in catalog (including the `coming soon` entry) as of 2022, Thursday, December 8th._ |
+| `27` | _total items in catalog, as of 2022, Thursday, December 8th._ |
 | `25` | _total existing items in catalog (created repositories and in development) as of 2022, Thursday, December 8th._ |
 | `24` | _total existing items in catalog (without counting the Candroid Core) as of 2022, Thursday, December 8th._ |
 
@@ -286,9 +309,9 @@ Current objectives:
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `13 (2022, Thursday, December 8th at 4:06 pm PST)`
+**File version:** `14 (2022, Wednesday, December1 14th at 5:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `573`
+**Line count (including blank lines and compiler line):** `616`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -564,6 +587,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Updated an entry for version 13
 - [ ] No other changes in version 13
+
+</details>
+
+<details><summary><p lang="en"><b>Version 14 (2022, Wednesday, December 14th at 5:38 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Attempts at centering the logo, created a table with 3 logos and 3 links
+- [x] Attempted to center the top heading
+- [x] Updated the `Candroid Catalogue` section
+- - [x] Now matches V16 of the catalog
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Updated an entry for version 14
+- [ ] No other changes in version 14
 
 </details>
 
