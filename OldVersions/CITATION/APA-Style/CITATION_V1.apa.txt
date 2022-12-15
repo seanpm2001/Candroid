@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux. Candroid is a framework that allows the re-implementation of all Android features in an open-source, privacy friendly fashion. [Data set]. https://doi.org/10.0000/00000
