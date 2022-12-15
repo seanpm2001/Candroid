@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this project (Candroid framework) please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Candroid framework"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2020-12-26
+# Date the repository was created
+url: "https://github.com/seanpm2001/Candroid/"
+cff-version: 1.2.0
+message: "If you use this project (Candroid framework) please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: ""
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+# Date of the creation of the citation file
+date-released: 2022-12-14
+url: "https://github.com/seanpm2001/Candroid/"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Candroid framework"
+  month: 12
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux. Candroid is a framework that allows the re-implementation of all Android features in an open-source, privacy friendly fashion."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Wednesday, December 14th at 6:17 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 46
